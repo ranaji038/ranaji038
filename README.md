@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ranaji038
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning backend development 
+- 💞️ I’m looking to collaborate on front end development
 - 📫 How to reach me ...drop a mail : mailforranaji@gmail.com
 
 <!---
