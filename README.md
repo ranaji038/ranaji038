@@ -1,6 +1,8 @@
 <h1 align="center">Hey, I'm Prashant Singh Ranawat</h1>
 <h3 align="center">An enthusiastic Web Developer</h3>
 
+<!-- Holopin Badges  -->
+[![@prashant38's Holopin board](https://holopin.me/prashant38)](https://holopin.io/@prashant38)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranaji038&label=Profile%20views&color=0e75b6&style=flat" alt="ranaji038" /> </p>
 
 -> I’m currently learning **MERN Stack**
